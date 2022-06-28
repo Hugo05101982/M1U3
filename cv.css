@@ -1,0 +1,260 @@
+.maestro {
+    position: absolute;
+    top: 29px;
+    height: 1480px;
+    width: 400px;
+    background-color: rgb(63, 101, 146);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+h2 {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.son {
+    position: absolute;
+    top: 29px;
+    left: 408px;
+    height: 1480px;
+    width: 1000px;
+    background-color: rgb(217, 210, 214);
+    text-align: left;
+
+
+}
+
+hr {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.naif {
+    font-weight: bold;
+
+}
+
+.azul {
+    color: blue;
+}
+
+.tito {
+    text-align: left;
+    margin-left: 150px;
+
+}
+
+.hugo {
+    margin-left: 105px;
+}
+
+.sisi {
+    display: flex;
+    width: 105%;
+}
+
+.tiempo {
+    margin-left: 105px;
+}
+
+.nova {
+    margin-left: 100px;
+    text-align: justify;
+}
+
+.sisidos {
+    display: flex;
+    width: 105%;
+}
+
+.tiempodos {
+    margin-left: 105px;
+}
+
+.novados {
+    margin-left: 132px;
+    text-align: justify;
+}
+
+.sisitres {
+    display: flex;
+    width: 105%;
+}
+
+.tiempotres {
+    margin-left: 105px;
+}
+
+.novatres {
+    margin-left: 124px;
+    text-align: justify;
+}
+
+.sisicuatro {
+    display: flex;
+    width: 105%;
+}
+
+.tiempocuatro {
+    margin-left: 105px;
+}
+
+.novacuatro {
+    margin-left: 130px;
+    text-align: justify;
+}
+
+.tipo {
+    position: absolute;
+    height: 25px;
+    display: flex;
+    margin-left: 50px;
+    filter: invert();
+}
+
+.casa {
+    position: absolute;
+    height: 25px;
+    display: flex;
+    margin-left: 50px;
+    filter: invert();
+}
+
+.telefono {
+    position: absolute;
+    height: 25px;
+    display: flex;
+    margin-left: 50px;
+    filter: invert();
+}
+
+.email {
+    position: absolute;
+    height: 30px;
+    display: flex;
+    margin-left: 47px;
+    filter: invert();
+}
+
+.calendario {
+    position: absolute;
+    height: 25px;
+    display: flex;
+    margin-left: 50px;
+    filter: invert();
+}
+
+.gorro {
+    position: relative;
+    height: 45px;
+    display: flex;
+    margin-left: 35px;
+    top: 140px;
+
+}
+
+.titodos {
+    margin-left: 105px;
+}
+
+.portfolio {
+    position: relative;
+    height: 30px;
+    display: flex;
+    margin-left: 42px;
+    top: 320px;
+}
+
+.Formacion .timeline .time_point {
+    top: 442px;
+    margin-left: 47px;
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: rgb(63, 101, 146);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px;
+}
+
+.vertical {
+    border-left: 5px solid rgb(0, 0, 0);
+    height: 25px;
+    position: absolute;
+    margin-left: 54px;
+    margin-top: 42px;
+}
+
+.Formacion .timeline .time_point2 {
+    top: 672px;
+    margin-left: 47px;
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: rgb(63, 101, 146);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px;
+}
+
+
+.Formacion .timeline .time_point3 {
+    top: 872px;
+    margin-left: 47px;
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: rgb(63, 101, 146);
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px;
+}
+
+.Formacion .timeline .time_point4 {
+    box-shadow: 0 0 0 3px;
+    margin-left: 47px;
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: rgb(63, 101, 146);
+    border-radius: 50%;
+    top: 990px;
+}
+
+.vertical_2 {
+    border-left: 5px solid black;
+    height: 25px;
+    position: absolute;
+    margin-left: 54px;
+    margin-top: 270px;
+}
+
+.vertical_3 {
+    border-left: 5px solid black;
+    height: 175px;
+    position: absolute;
+    margin-left: 54px;
+    margin-top: 320px;
+}
+
+.vertical_4 {
+    border-left: 5px solid black;
+    height: 95px;
+    position: absolute;
+    margin-left: 54px;
+    margin-top: 520px;
+
+
+}
